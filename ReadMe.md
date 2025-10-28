@@ -65,6 +65,22 @@ All five programs are **UGC-approved**, **recognized globally**, and ideal for p
 
 ---
 
+
+# 🧠 Agentic AI – Essential Coursera Certifications
+
+These top Coursera courses build a strong foundation in **agentic AI, LLMs, and autonomous systems** from trusted providers.
+
+| No. | Course / Specialization | Provider | Link |
+|-----|--------------------------|----------|------|
+| 1 | Generative AI with Large Language Models | DeepLearning.AI | [https://www.coursera.org/learn/generative-ai-with-llms](https://www.coursera.org/learn/generative-ai-with-llms) :contentReference[oaicite:0]{index=0} |
+| 2 | Agentic AI and AI Agents: A Primer for Leaders | Vanderbilt University | [https://www.coursera.org/learn/agentic-ai](https://www.coursera.org/learn/agentic-ai) :contentReference[oaicite:1]{index=1} |
+| 3 | AI Agent Developer Specialization | Coursera (multiple-institution) | [https://www.coursera.org/specializations/ai-agents](https://www.coursera.org/specializations/ai-agents) :contentReference[oaicite:2]{index=2} |
+| 4 | AI Agents and Agentic AI with Python & Generative AI | Coursera (multiple-institution) | [https://www.coursera.org/learn/ai-agents-python](https://www.coursera.org/learn/ai-agents-python) :contentReference[oaicite:3]{index=3} |
+| 5 | Fundamentals of AI Agents Using RAG & LangChain | IBM | [https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain](https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain) :contentReference[oaicite:4]{index=4} |
+
+
+---
+
 ### 📚 Sources
 1. [M.Tech (Online) Admissions 2025 - CCE IISc](https://cce.iisc.ac.in/iken/admissions-2025/)  
 2. [Online M.Tech AI Course - IISc Bangalore (Careers360)](https://www.careers360.com/university/indian-institute-of-science-bangalore/online-mtech-artificial-intelligence-online-course)  
