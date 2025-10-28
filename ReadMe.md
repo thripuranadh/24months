@@ -4,7 +4,7 @@
 
 ---
 
-## 📘 AI + Quantum Computing Courses
+## 📘 AI + Quantum Computing Courses (3 months each focus area )
 
 | **Focus Area** | **Course / Specialization** | **Provider** |
 |----------------|-----------------------------|---------------|
@@ -19,10 +19,12 @@
 
 ---
 
-## 🧠 Agentic AI Courses
+## 🧠 Agentic AI Courses (1 month each focus area )
 
-| **No.** | **Course / Specialization** | **Provider** | **Platform / Link** |
-|----------|-----------------------------|---------------|----------------------|
+A curated list of **industry-recognized Agentic AI certifications** from credible institutions — ideal for building real-world AI Agent development and GenAI integration skills.
+
+| 🧩 **No.** | 🎓 **Course / Specialization** | 🏛️ **Provider** | 🔗 **Platform / Link** |
+|:-----------:|-------------------------------|------------------|------------------------|
 | 1 | **Generative AI with Large Language Models** | DeepLearning.AI & AWS | [Coursera](https://www.coursera.org/learn/generative-ai-with-llms) |
 | 2 | **Agentic AI and AI Agents: A Primer for Leaders** | Vanderbilt University | [Coursera](https://www.coursera.org/learn/agentic-ai) |
 | 3 | **AI Agent Developer Specialization** | Coursera Project Network | [Coursera](https://www.coursera.org/specializations/ai-agents) |
@@ -33,7 +35,12 @@
 
 ---
 
-## 🎓 Top Online AI & Data Science Master's Programs in India
+### 💡 Recommendation
+Start with **DeepLearning.AI’s Generative AI with LLMs** to master foundational GenAI concepts, then progress toward **Agentic AI development** and **LangChain/RAG-based implementation** for practical, deployable AI systems.
+
+---
+
+## 🎓 Top Online AI & Data Science Master's Programs in India (2 years )
 
 | **Feature** | 🧠 **IIT Kanpur** <br> *eMasters in AI & ML* | 💻 **IIIT Hyderabad / TalentSprint** <br> *eMasters in CS: AI & ML* | 🧮 **BITS Pilani Digital** <br> *MSc in Data Science & AI* | 📊 **Manipal Academy of Higher Education** <br> *MSc in Data Science* | ⚛️ **IISc Bangalore** <br> *M.Tech (Online) in AI* |
 |--------------|---------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------|
