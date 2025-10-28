@@ -66,17 +66,18 @@ All five programs are **UGC-approved**, **recognized globally**, and ideal for p
 ---
 
 
-# 🧠 Agentic AI – Essential Coursera Certifications
+# 🧠 Agentic AI — Essential Coursera Certifications (2025)
 
-These top Coursera courses build a strong foundation in **agentic AI, LLMs, and autonomous systems** from trusted providers.
+These are the most credible and relevant Coursera certifications to build strong skills in **Agentic AI, LLMs, RAG, and Autonomous Agents** — all from trusted global institutions.
 
-| No. | Course / Specialization | Provider | Link |
-|-----|--------------------------|----------|------|
-| 1 | Generative AI with Large Language Models | DeepLearning.AI | [https://www.coursera.org/learn/generative-ai-with-llms](https://www.coursera.org/learn/generative-ai-with-llms) :contentReference[oaicite:0]{index=0} |
-| 2 | Agentic AI and AI Agents: A Primer for Leaders | Vanderbilt University | [https://www.coursera.org/learn/agentic-ai](https://www.coursera.org/learn/agentic-ai) :contentReference[oaicite:1]{index=1} |
-| 3 | AI Agent Developer Specialization | Coursera (multiple-institution) | [https://www.coursera.org/specializations/ai-agents](https://www.coursera.org/specializations/ai-agents) :contentReference[oaicite:2]{index=2} |
-| 4 | AI Agents and Agentic AI with Python & Generative AI | Coursera (multiple-institution) | [https://www.coursera.org/learn/ai-agents-python](https://www.coursera.org/learn/ai-agents-python) :contentReference[oaicite:3]{index=3} |
-| 5 | Fundamentals of AI Agents Using RAG & LangChain | IBM | [https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain](https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain) :contentReference[oaicite:4]{index=4} |
+| No. | Course / Specialization | Provider | Coursera Link |
+|-----|--------------------------|-----------|----------------|
+| 1 | **Generative AI with Large Language Models** | DeepLearning.AI & AWS | [https://www.coursera.org/learn/generative-ai-with-llms](https://www.coursera.org/learn/generative-ai-with-llms) |
+| 2 | **Agentic AI and AI Agents: A Primer for Leaders** | Vanderbilt University | [https://www.coursera.org/learn/agentic-ai](https://www.coursera.org/learn/agentic-ai) |
+| 3 | **AI Agent Developer Specialization** | Coursera Project Network | [https://www.coursera.org/specializations/ai-agents](https://www.coursera.org/specializations/ai-agents) |
+| 4 | **AI Agents and Agentic AI with Python & Generative AI** | Coursera Project Network | [https://www.coursera.org/learn/ai-agents-python](https://www.coursera.org/learn/ai-agents-python) |
+| 5 | **Fundamentals of AI Agents Using RAG and LangChain** | IBM | [https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain](https://www.coursera.org/learn/fundamentals-of-ai-agents-using-rag-and-langchain) |
+
 
 
 ---
