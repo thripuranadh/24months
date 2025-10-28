@@ -28,34 +28,40 @@
 ---
 
 
-# 🎓 Comparison of Top Online Master's Programs in AI & ML (India, 2025–26)
+# 🎓 Top Online AI & Data Science Master's Programs in India (2025–26)
 
-| **Feature** | **IIT Kanpur eMasters in AI & ML** | **IIIT Hyderabad / TalentSprint eMasters in CS: AI & ML** | **BITS Pilani Digital MSc in Data Science & AI** | **Manipal Academy of Higher Education MSc Data Science** | **IISc Bangalore M.Tech (Online) in AI** |
-|--------------|------------------------------------|------------------------------------------------------------|--------------------------------------------------|------------------------------------------------------------|-------------------------------------------|
-| **Program Type** | Online postgraduate degree by IIT Kanpur EE Dept | Online, project-centric, blended live + self-paced | Online, UGC approved | Online, UGC-DEB approved, NAAC A++ | Online, sponsored degree for working professionals with employer nomination |
-| **Duration** | 24 months | 24 months | 24 months | 24 months | Typically 2–3 years (flexible duration) |
-| **Curriculum** | Foundational to advanced AI, ML, Deep Learning, ML for Audio Processing | Project-based curriculum designed by IIIT Hyderabad faculty | Data Science, AI, ML, Big Data, Statistics | Data Science with electives in CV, NLP, Bayesian Modelling | Core + Electives + Industry project; deep AI focus |
-| **Pedagogy** | Hands-on projects, case studies, live interactive sessions, campus visits | Self-paced + weekend live sessions, weekly assessments, capstones | Live interactive, virtual labs, capstone project | Fully online with mentoring, career support, capstone project | Live synchronous classes, online exams, company project with IISc faculty mentor |
-| **Fee (INR)** | Approx ₹8,00,000 | ₹5,00,000 + 18% GST | Approx ₹2,80,000 | ₹2,80,000 total | ₹8.9–9.6 lakhs total depending on stream |
-| **Fee (USD)** | — | — | — | Approx USD 3,600 | — |
-| **Accreditation** | IIT Kanpur, UGC approved | IIIT Hyderabad, UGC recognized | BITS Pilani deemed university, UGC approved | Manipal deemed university, NAAC A++ | IISc, UGC approved |
-| **Admission Criteria** | Graduation with 55% or equivalent, 2 years work experience recommended | Graduates/working professionals | Graduates with minimum qualification | Graduates with minimum qualification | Sponsored by employer, online test, minimum 2 years experience |
-| **Eligibility for PhD** | Yes | Yes | Yes | Yes | Yes |
-| **Career Focus** | Academic (lecturing/research) and industry | Industry & academic pathways | Industry focused | Industry focused | Academic and industry, heavy research orientation |
-| **Brand Strength** | IIT Kanpur – premier Indian institute | IIIT Hyderabad – top dedicated CS institute | Strong Indian brand, established | Strong regional and national brand | IISc Bangalore – India’s top ranked university |
-| **Placement & Alumni Network** | Strong IIT Kanpur alumni network and research collaboration | Growing industry collaborations and mentoring | Strong industry tie-ups and alumni | Good industry connections and alumni network | Strong academic and industry network |
-| **Flexibility** | High, online with live sessions and campus visits | High, weekend live + self-paced | High | High | High, evening and weekend classes, company-approved breaks allowed |
-| **Career Services** | Yes | Yes | Yes | Yes | Yes |
-| **Website** | [IIT Kanpur eMasters](https://online.iitk.ac.in/emasters/aiml/) | [IIIT Hyderabad / TalentSprint](https://talentsprint.com/course/emasters-in-computer-science-ai-machine-learning) | [BITS Pilani Digital](https://bitspilani-digital.edu.in/msc-in-data-science-and-artificial-intelligence) | [Online Manipal](https://www.onlinemanipal.com/msc-ds-popup) | [IISc Bangalore CCE](https://cce.iisc.ac.in/iken/mtech-online/artificial-intelligence/) |
+A comparison of India's most reputed **UGC-approved** and **industry-recognized** online postgraduate degrees in **Artificial Intelligence, Machine Learning, and Data Science**.
 
 ---
 
+| **Feature** | 🧠 **IIT Kanpur** <br> *eMasters in AI & ML* | 💻 **IIIT Hyderabad / TalentSprint** <br> *eMasters in CS: AI & ML* | 🧮 **BITS Pilani Digital** <br> *MSc in Data Science & AI* | 📊 **Manipal Academy of Higher Education** <br> *MSc in Data Science* | ⚛️ **IISc Bangalore** <br> *M.Tech (Online) in Artificial Intelligence* |
+|--------------|---------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------|
+| **Program Type** | Online postgraduate degree by IIT Kanpur (EE Dept) | Project-centric, blended (live + self-paced) | 100% Online, UGC approved | 100% Online, UGC-DEB approved, NAAC A++ | Online degree for working professionals (employer-nominated) |
+| **Duration** | 24 months | 24 months | 24 months | 24 months | 2–3 years (flexible) |
+| **Curriculum** | Foundations → Deep Learning → Applied ML | Project-driven AI & ML curriculum | Data Science, ML, Big Data, Statistics | Data Science + electives (CV, NLP, Bayesian Modelling) | Core AI + Research + Industry Project |
+| **Learning Style** | Live sessions, projects, case studies, campus visits | Self-paced with weekend live classes & capstones | Live online, virtual labs, capstone project | Fully online with mentoring & career support | Evening/weekend live sessions, online exams, industry projects |
+| **Total Fee (INR)** | ₹8.0 Lakh | ₹5.0 Lakh + GST | ₹2.8 Lakh | ₹2.8 Lakh | ₹8.9 – 9.6 Lakh |
+| **Accreditation** | UGC Approved (IIT Kanpur) | UGC Recognized (IIIT Hyderabad) | UGC Approved (BITS Pilani) | UGC-DEB, NAAC A++ (Manipal) | UGC Approved (IISc Bangalore) |
+| **Admission Criteria** | Graduate, 55%+, 2 yrs experience recommended | Graduate / working professional | Graduate (any stream with math background) | Graduate (any stream) | Employer-sponsored, online test, 2+ yrs experience |
+| **PhD Eligibility** | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes | ✅ Yes |
+| **Career Focus** | Academic + Industry | Industry + Academic | Industry | Industry | Research + Academic + Industry |
+| **Brand Strength** | ⭐ IIT Kanpur – Premier national institute | ⭐ IIIT Hyderabad – Top CS institute | ⭐ BITS Pilani – Reputed private university | ⭐ Manipal – Nationally recognized brand | 🌟 IISc – India’s #1 ranked university |
+| **Alumni & Industry Network** | Very strong | Strong and growing | Established | Good | Exceptional (academic + industry) |
+| **Flexibility** | High (live + hybrid) | High (weekend format) | High | High | High (evening/weekend + flexible duration) |
+| **Career Support** | Yes | Yes | Yes | Yes | Yes |
+| **Official Website** | [IIT Kanpur eMasters](https://online.iitk.ac.in/emasters/aiml/) | [IIIT Hyderabad / TalentSprint](https://talentsprint.com/course/emasters-in-computer-science-ai-machine-learning) | [BITS Pilani Digital](https://bitspilani-digital.edu.in/msc-in-data-science-and-artificial-intelligence) | [Online Manipal](https://www.onlinemanipal.com/msc-ds-popup) | [IISc Bangalore CCE](https://cce.iisc.ac.in/iken/mtech-online/artificial-intelligence/) |
 
-## 🏁 Summary
-- **Academic / Research Focus** → IISc Bangalore & IIT Kanpur eMasters  
-- **Balanced Academic + Industry** → IIIT Hyderabad / TalentSprint  
-- **Best Value / Affordable** → BITS Pilani Digital or Manipal Academy of Higher Education  
-- All listed programs are **UGC-approved or recognized**, and suitable for **lecturing / research** eligibility.
+---
+
+### 🧭 Summary
+
+- 🏅 **Best for Research & Academic Track:** IISc Bangalore M.Tech (Online)  
+- 🎯 **Balanced for Career + Academia:** IIT Kanpur eMasters  
+- 💼 **Project-Based Industry Focus:** IIIT Hyderabad / TalentSprint  
+- 💰 **Best Value for Money:** BITS Pilani & Manipal Digital MSc Programs  
+
+All five programs are **UGC-approved**, **recognized globally**, and ideal for professionals advancing in **AI, ML, and Data Science** careers.
+
 
 ---
 
