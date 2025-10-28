@@ -28,7 +28,7 @@
 ---
 
 
-# 🎓 Comparison of Top Online / Blended Master's Programs in AI & ML (India, 2025–26)
+# 🎓 Comparison of Top Online Master's Programs in AI & ML (India, 2025–26)
 
 | **Feature** | **IIT Kanpur eMasters in AI & ML** | **IIIT Hyderabad / TalentSprint eMasters in CS: AI & ML** | **BITS Pilani Digital MSc in Data Science & AI** | **Manipal Academy of Higher Education MSc Data Science** | **IISc Bangalore M.Tech (Online) in AI** |
 |--------------|------------------------------------|------------------------------------------------------------|--------------------------------------------------|------------------------------------------------------------|-------------------------------------------|
